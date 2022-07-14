@@ -1,0 +1,7 @@
+Voici ton travaille : 
+
+-Completre le "Exel" qui porte le nom de "Armes"
+tu devra trouver des arme (qui existe et tu les mets leur nom la dedans) apres sur la colone c
+tu met les dommage de l'arme et sur la colone d la distance max pour tirer.
+
+-faire parreile mais pour les armes
